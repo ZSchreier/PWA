@@ -8,6 +8,6 @@ The end result is a text editor app that can be accessed without internet, due t
 
 ## Preview
 
-The deployed project can be found at this link: [Click here for J.A.T.E](https://www.google.com)
+The deployed project can be found at this link: [Click here for J.A.T.E](https://pwa-text-editor-schreier-9af9878a429f.herokuapp.com/)
 
 The following screenshot provides a look at the text editor in action: ![An image of the text editor with some information saved in it](./jate-example.PNG)
